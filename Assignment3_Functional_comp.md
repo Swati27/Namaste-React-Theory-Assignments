@@ -37,4 +37,4 @@ While passing JSX to be rendered, a single element should be passed. So if we ha
 			<HeadingComponent/>
 		</div>
 	</React.Fragment>
-hello-react/3_functional_component at main · ruchamahabal/hello-
+hello-
